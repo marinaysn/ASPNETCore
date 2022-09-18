@@ -1,0 +1,12 @@
+C:\Users\marina\Documents\marina\study\NetCore\MarkaBookStore\MarkaBookStore.Utility\bin\Debug\net6.0\MarkaBookStore.Utility.deps.json
+C:\Users\marina\Documents\marina\study\NetCore\MarkaBookStore\MarkaBookStore.Utility\bin\Debug\net6.0\MarkaBookStore.Utility.dll
+C:\Users\marina\Documents\marina\study\NetCore\MarkaBookStore\MarkaBookStore.Utility\bin\Debug\net6.0\MarkaBookStore.Utility.pdb
+C:\Users\marina\Documents\marina\study\NetCore\MarkaBookStore\MarkaBookStore.Utility\obj\Debug\net6.0\MarkaBookStore.Utility.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\marina\Documents\marina\study\NetCore\MarkaBookStore\MarkaBookStore.Utility\obj\Debug\net6.0\MarkaBookStore.Utility.AssemblyInfoInputs.cache
+C:\Users\marina\Documents\marina\study\NetCore\MarkaBookStore\MarkaBookStore.Utility\obj\Debug\net6.0\MarkaBookStore.Utility.AssemblyInfo.cs
+C:\Users\marina\Documents\marina\study\NetCore\MarkaBookStore\MarkaBookStore.Utility\obj\Debug\net6.0\MarkaBookStore.Utility.csproj.CoreCompileInputs.cache
+C:\Users\marina\Documents\marina\study\NetCore\MarkaBookStore\MarkaBookStore.Utility\obj\Debug\net6.0\MarkaBookStore.Utility.dll
+C:\Users\marina\Documents\marina\study\NetCore\MarkaBookStore\MarkaBookStore.Utility\obj\Debug\net6.0\MarkaBookStore.Utility.pdb
+C:\Users\marina\Documents\marina\study\NetCore\MarkaBookStore\MarkaBookStore.Utility\obj\Debug\net6.0\ref\MarkaBookStore.Utility.dll
+C:\Users\marina\Documents\marina\study\NetCore\MarkaBookStore\MarkaBookStore.Utility\obj\Debug\net6.0\MarkaBookStore.Utility.csproj.AssemblyReference.cache
+C:\Users\marina\Documents\marina\study\NetCore\MarkaBookStore\MarkaBookStore.Utility\obj\Debug\net6.0\refint\MarkaBookStore.Utility.dll

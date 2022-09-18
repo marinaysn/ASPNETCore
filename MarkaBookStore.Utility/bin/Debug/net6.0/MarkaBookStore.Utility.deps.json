@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "MarkaBookStore.Utility/1.0.0": {
+        "runtime": {
+          "MarkaBookStore.Utility.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "MarkaBookStore.Utility/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

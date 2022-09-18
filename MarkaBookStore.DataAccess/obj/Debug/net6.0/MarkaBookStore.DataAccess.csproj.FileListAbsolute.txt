@@ -1,0 +1,15 @@
+C:\Users\marina\Documents\marina\study\NetCore\MarkaBookStore\MarkaBookStore.DataAccess\obj\Debug\net6.0\MarkaBookStore.DataAccess.csproj.AssemblyReference.cache
+C:\Users\marina\Documents\marina\study\NetCore\MarkaBookStore\MarkaBookStore.DataAccess\obj\Debug\net6.0\MarkaBookStore.DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\marina\Documents\marina\study\NetCore\MarkaBookStore\MarkaBookStore.DataAccess\obj\Debug\net6.0\MarkaBookStore.DataAccess.AssemblyInfoInputs.cache
+C:\Users\marina\Documents\marina\study\NetCore\MarkaBookStore\MarkaBookStore.DataAccess\obj\Debug\net6.0\MarkaBookStore.DataAccess.AssemblyInfo.cs
+C:\Users\marina\Documents\marina\study\NetCore\MarkaBookStore\MarkaBookStore.DataAccess\obj\Debug\net6.0\MarkaBookStore.DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\marina\Documents\marina\study\NetCore\MarkaBookStore\MarkaBookStore.DataAccess\bin\Debug\net6.0\MarkaBookStore.DataAccess.deps.json
+C:\Users\marina\Documents\marina\study\NetCore\MarkaBookStore\MarkaBookStore.DataAccess\bin\Debug\net6.0\MarkaBookStore.DataAccess.dll
+C:\Users\marina\Documents\marina\study\NetCore\MarkaBookStore\MarkaBookStore.DataAccess\bin\Debug\net6.0\MarkaBookStore.DataAccess.pdb
+C:\Users\marina\Documents\marina\study\NetCore\MarkaBookStore\MarkaBookStore.DataAccess\obj\Debug\net6.0\MarkaBookStore.DataAccess.csproj.CopyComplete
+C:\Users\marina\Documents\marina\study\NetCore\MarkaBookStore\MarkaBookStore.DataAccess\obj\Debug\net6.0\MarkaBookStore.DataAccess.dll
+C:\Users\marina\Documents\marina\study\NetCore\MarkaBookStore\MarkaBookStore.DataAccess\obj\Debug\net6.0\MarkaBookStore.DataAccess.pdb
+C:\Users\marina\Documents\marina\study\NetCore\MarkaBookStore\MarkaBookStore.DataAccess\obj\Debug\net6.0\ref\MarkaBookStore.DataAccess.dll
+C:\Users\marina\Documents\marina\study\NetCore\MarkaBookStore\MarkaBookStore.DataAccess\obj\Debug\net6.0\refint\MarkaBookStore.DataAccess.dll
+C:\Users\marina\Documents\marina\study\NetCore\MarkaBookStore\MarkaBookStore.DataAccess\bin\Debug\net6.0\MarkaBookStore.Models.dll
+C:\Users\marina\Documents\marina\study\NetCore\MarkaBookStore\MarkaBookStore.DataAccess\bin\Debug\net6.0\MarkaBookStore.Models.pdb

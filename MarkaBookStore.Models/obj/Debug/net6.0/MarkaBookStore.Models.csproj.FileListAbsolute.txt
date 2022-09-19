@@ -10,3 +10,14 @@ C:\Users\marina\Documents\marina\study\NetCore\MarkaBookStore\MarkaBookStore.Mod
 C:\Users\marina\Documents\marina\study\NetCore\MarkaBookStore\MarkaBookStore.Models\obj\Debug\net6.0\ref\MarkaBookStore.Models.dll
 C:\Users\marina\Documents\marina\study\NetCore\MarkaBookStore\MarkaBookStore.Models\obj\Debug\net6.0\MarkaBookStore.Models.csproj.AssemblyReference.cache
 C:\Users\marina\Documents\marina\study\NetCore\MarkaBookStore\MarkaBookStore.Models\obj\Debug\net6.0\refint\MarkaBookStore.Models.dll
+C:\Users\marina\Documents\marina\study\NetCore\ASPNETCore\MarkaBookStore.Models\bin\Debug\net6.0\MarkaBookStore.Models.deps.json
+C:\Users\marina\Documents\marina\study\NetCore\ASPNETCore\MarkaBookStore.Models\bin\Debug\net6.0\MarkaBookStore.Models.dll
+C:\Users\marina\Documents\marina\study\NetCore\ASPNETCore\MarkaBookStore.Models\bin\Debug\net6.0\ref\MarkaBookStore.Models.dll
+C:\Users\marina\Documents\marina\study\NetCore\ASPNETCore\MarkaBookStore.Models\bin\Debug\net6.0\MarkaBookStore.Models.pdb
+C:\Users\marina\Documents\marina\study\NetCore\ASPNETCore\MarkaBookStore.Models\obj\Debug\net6.0\MarkaBookStore.Models.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\marina\Documents\marina\study\NetCore\ASPNETCore\MarkaBookStore.Models\obj\Debug\net6.0\MarkaBookStore.Models.AssemblyInfoInputs.cache
+C:\Users\marina\Documents\marina\study\NetCore\ASPNETCore\MarkaBookStore.Models\obj\Debug\net6.0\MarkaBookStore.Models.AssemblyInfo.cs
+C:\Users\marina\Documents\marina\study\NetCore\ASPNETCore\MarkaBookStore.Models\obj\Debug\net6.0\MarkaBookStore.Models.csproj.CoreCompileInputs.cache
+C:\Users\marina\Documents\marina\study\NetCore\ASPNETCore\MarkaBookStore.Models\obj\Debug\net6.0\MarkaBookStore.Models.dll
+C:\Users\marina\Documents\marina\study\NetCore\ASPNETCore\MarkaBookStore.Models\obj\Debug\net6.0\ref\MarkaBookStore.Models.dll
+C:\Users\marina\Documents\marina\study\NetCore\ASPNETCore\MarkaBookStore.Models\obj\Debug\net6.0\MarkaBookStore.Models.pdb
